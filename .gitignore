@@ -1,2 +1,6 @@
-
 .gitattributes
+.idea/
+src/blog/__pycache__/
+src/blog/migrations/__pycache__/
+src/db.sqlite3
+src/django_blog/__pycache__/
